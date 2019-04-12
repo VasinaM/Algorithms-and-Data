@@ -13,7 +13,7 @@ public class Program {
           return 1;
       } else if (b == 1){
           return a;
-          } else{
+          } else {
           int exp = 1;
         for (int i = 0; i < b; i++) {
             exp *= a;
